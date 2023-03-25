@@ -44,7 +44,7 @@
   <header id="header">
     <div class="d-flex flex-column">
       <div class="profile">
-        <img src="assets/img/profile-img.jpg" alt="" class="img-fluid rounded-circle" />
+        <img src="assets/img/highrez.png" alt="" class="img-fluid rounded-circle" />
         <h1 class="text-light"><a href="index.html">Conner Dahm</a></h1>
         <div class="social-links mt-3 text-center">
           <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
@@ -127,7 +127,7 @@
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
-                    <strong>Website:</strong> <span>www.example.com</span>
+                    <strong>Website:</strong> <span><a href="https://urldefense.com/v3/__http://www.example.com__;!!CzAuKJ42GuquVTTmVmPViYEvSg!MNu_qV-v900w500G-GHg69GYygXbQCSn_bkWJ9m0ApWI9dlT7QSL8Bi-a6GFBuOYbJL5x0o2IrwT$">www.example.com</a></span>
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
@@ -297,16 +297,13 @@
         <div class="section-title">
           <h2>Resume</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-            ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-            quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-            Quia fugiat sit in iste officiis commodi quidem hic quas.
+          Below you will find an executive summary of my official resume. If you wish to view and download the full version please click here!
           </p>
         </div>
 
         <div class="row">
           <div class="col-lg-6" data-aos="fade-up">
-            <h3 class="resume-title">Sumary</h3>
+            <h3 class="resume-title">Summary</h3>
             <div class="resume-item pb-0">
               <h4>Conner Dahm</h4>
               <p>
@@ -316,14 +313,14 @@
                   final, polished deliverable.</em>
               </p>
               <ul>
-                <li>Portland par 127,Orlando, FL</li>
-                <li>(123) 456-7891</li>
-                <li>alice.barkley@example.com</li>
+                <li>4907 Rive Ave, Newport Beach, CA</li>
+                <li>(650) 996-8617</li>
+                <li>dahmc@uci.edu</li>
               </ul>
             </div>
 
             <h3 class="resume-title">Education</h3>
-            <div class="resume-item">
+            <!-- <div class="resume-item">
               <h4>Master of Fine Arts &amp; Graphic Design</h4>
               <h5>2015 - 2016</h5>
               <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
@@ -332,64 +329,72 @@
                 quisquam iusto autem sit. Ea vero voluptatum qui ut
                 dignissimos deleniti nerada porti sand markend
               </p>
-            </div>
+            </div> -->
             <div class="resume-item">
-              <h4>Bachelor of Fine Arts &amp; Graphic Design</h4>
-              <h5>2010 - 2014</h5>
-              <p><em>Rochester Institute of Technology, Rochester, NY</em></p>
+              <h4>Bachelor of Science - Mechanical Engineering</h4>
+              <h5>2020 - 2024</h5>
+              <p><em>University of California Irvine, Irvine, CA</em></p>
               <p>
                 Quia nobis sequi est occaecati aut. Repudiandae et iusto quae
                 reiciendis et quis Eius vel ratione eius unde vitae rerum
                 voluptates asperiores voluptatem Earum molestiae consequatur
-                neque etlon sader mart dila
+              </p>
+            </div>
+
+            <h3 class="resume-title">Athletics</h3>
+            <div class="resume-item">
+              <h4>NCAA Division 1 Men's Volleyball</h4>
+              <h5>2020 - 2024</h5>
+              <p><em>University of California Irvine, Irvine, CA</em></p>
+              <p>
+              Immersed in nationally ranked competition with intense six-hour
+              daily workouts and practices promoting discipline and strong work
+              ethic
               </p>
             </div>
           </div>
           <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
             <h3 class="resume-title">Professional Experience</h3>
             <div class="resume-item">
-              <h4>Senior graphic design specialist</h4>
-              <h5>2019 - Present</h5>
-              <p><em>Experion, New York, NY </em></p>
+              <h4>Founder, Principal Design Engineer</h4>
+              <h5>2018 - Present</h5>
+              <p><em>Irvine &amp; Danville, CA </em></p>
               <ul>
                 <li>
-                  Lead in the design, development, and implementation of the
-                  graphic, layout, and production communication materials
+                  Launched design firm to manufacture customized uniforms,
+                  apparel, and engraved logos for sports enthusiasts
                 </li>
                 <li>
-                  Delegate tasks to the 7 members of the design team and
-                  provide counsel on all aspects of the project.
+                  Designed unique, high-quality deliverable products based on one-
+                  on-one discussions with clients
                 </li>
                 <li>
-                  Supervise the assessment of all graphic materials in order
-                  to ensure quality and accuracy of the design
+                  Produced consumer goods on contract leveraging 3rd party and
+                  personal CAD, laser, and 3D printer equipment
                 </li>
                 <li>
-                  Oversee the efficient use of production project budgets
-                  ranging from $2,000 - $25,000
+                  Lead educational workshops and private instruction on high-end
+                  manufacturing equipment, while serving as lead technician for
+                  manufacturing equipment
                 </li>
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Graphic design specialist</h4>
-              <h5>2017 - 2018</h5>
-              <p><em>Stepping Stone Advertising, New York, NY</em></p>
+              <h4>Mechanical Design Engineer</h4>
+              <h5>2020 - 2022</h5>
+              <p><em>University of California Irvine, Irvine, CA</em></p>
               <ul>
                 <li>
-                  Developed numerous marketing programs (logos,
-                  brochures,infographics, presentations, and advertisements).
+                  Created SolidWorks part files of all components for assembly of
+                  working electric guitar
                 </li>
                 <li>
-                  Managed up to 5 projects or tasks at a given time while
-                  under pressure
+                  Fabricated electric guitar employing additive and subtractive
+                  manufacturing techniques along with CAD software
                 </li>
                 <li>
-                  Recommended and consulted with clients on the most
-                  appropriate graphic design
-                </li>
-                <li>
-                  Created 4+ design presentations and proposals a month for
-                  clients and account managers
+                  Applications: SolidWorks,AutoCAD, Adobe Illustrator, 
+                  Adobe Photoshop, CorelDRAW, TinkerCAD
                 </li>
               </ul>
             </div>
