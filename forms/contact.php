@@ -15,4 +15,4 @@ if ($_SERVER['REQUEST_METHOD'] == "POST") {
   }
 }
 
-header("Location: ../sent-email.php");
+header("Location: ../sent-email.html");
