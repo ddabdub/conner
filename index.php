@@ -16,6 +16,9 @@
   <!-- Google Fonts -->
   <link href="https://fonts.googleapis.com/css?family=Open+Sans:300,300i,400,400i,600,600i,700,700i|Raleway:300,300i,400,400i,500,500i,600,600i,700,700i|Poppins:300,300i,400,400i,500,500i,600,600i,700,700i" rel="stylesheet" />
 
+  <!-- Font Awesome -->
+  <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.0.13/css/all.css" integrity="sha384-DNOHZ68U8hZfKXOrtjWvjxusGo9WQnrNx2sqG0tfsghAvtVlRW3tvkXWZh58N9jp" crossorigin="anonymous" />
+
   <!-- Vendor CSS Files -->
   <link href="assets/vendor/aos/aos.css" rel="stylesheet" />
   <link href="assets/vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet" />
@@ -297,7 +300,18 @@
         <div class="section-title">
           <h2>Resume</h2>
           <p>
-          Below you will find an executive summary of my official resume. If you wish to view and download the full version please click here!
+            Below you will find an executive summary of my official resume. <br> If you wish to view and download the full version please click here!
+          <div id="main-footer" class="bg-white text-black">
+            <!-- <div class="row d-flex flex-row-reverse row-h1">
+              <div class="mb-5 col-md-4 item-h1"> -->
+            <div class="row d-flex ">
+              <div class="mt-2 mb-4 col-md-4">
+                <a href="CD_Resume.pdf" target="_blank" class="btn btn-white btn-outline-dark">
+                  <i class="fas fa-cloud-download-alt"></i> Download Resume
+                </a>
+              </div>
+            </div>
+          </div>
           </p>
         </div>
 
@@ -347,9 +361,9 @@
               <h5>2020 - 2024</h5>
               <p><em>University of California Irvine, Irvine, CA</em></p>
               <p>
-              Immersed in nationally ranked competition with intense six-hour
-              daily workouts and practices promoting discipline and strong work
-              ethic
+                Immersed in nationally ranked competition with intense six-hour
+                daily workouts and practices promoting discipline and strong work
+                ethic
               </p>
             </div>
           </div>
@@ -393,7 +407,7 @@
                   manufacturing techniques along with CAD software
                 </li>
                 <li>
-                  Applications: SolidWorks,AutoCAD, Adobe Illustrator, 
+                  Applications: SolidWorks,AutoCAD, Adobe Illustrator,
                   Adobe Photoshop, CorelDRAW, TinkerCAD
                 </li>
               </ul>
@@ -431,9 +445,9 @@
         <div class="row portfolio-container" data-aos="fade-up" data-aos-delay="100">
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-1.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/robot_image.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/robot_image.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
