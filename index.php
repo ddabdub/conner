@@ -29,6 +29,14 @@
 
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet" />
+
+  <!-- =======================================================
+  * Template Name: iPortfolio
+  * Updated: Mar 10 2023 with Bootstrap v5.2.3
+  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
+  * Author: BootstrapMade.com
+  * License: https://bootstrapmade.com/license/
+  ======================================================== -->
 </head>
 
 <body>
@@ -42,11 +50,11 @@
         <img src="assets/img/highrez.png" alt="" class="img-fluid rounded-circle" />
         <h1 class="text-light"><a href="index.html">Conner Dahm</a></h1>
         <div class="social-links mt-3 text-center">
-          <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a>
-          <a href="#" class="facebook"><i class="bx bxl-facebook"></i></a>
-          <a href="#" class="instagram"><i class="bx bxl-instagram"></i></a>
-          <a href="#" class="google-plus"><i class="bx bxl-skype"></i></a>
-          <a href="#" class="linkedin"><i class="bx bxl-linkedin"></i></a>
+          <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
+          <a href="https://urldefense.com/v3/__https://github.com/Conner-Dahm__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOsZdw-vu$" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+          <a href="https://urldefense.com/v3/__https://www.instagram.com/connerdahm/__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOmFH1AWs$" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
+          <a href="#" class="google"><i class="bx bxl-gmail"></i></a>
+          <a href="https://urldefense.com/v3/__https://www.linkedin.com/in/conner-dahm/__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOjFkI_7m$" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
         </div>
       </div>
 
@@ -96,10 +104,7 @@
         <div class="section-title">
           <h2>About</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-            ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-            quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-            Quia fugiat sit in iste officiis commodi quidem hic quas.
+            As a dedicated student athlete, I am proud to say that I have achieved multiple Dean's List honors throughout my academic career. My passion for design and aviation has been a driving force in both my academic and personal pursuits. When I'm not on the court or in the classroom, you can often find me working on aviation-related projects or creating design pieces. The combination of athleticism and creativity has provided me with a unique perspective and skill set that I believe sets me apart. I am excited to continue pursuing my passions and applying them to new challenges and opportunities.
           </p>
         </div>
 
@@ -109,10 +114,10 @@
           </div>
           <div class="col-lg-8 pt-4 pt-lg-0 content" data-aos="fade-left">
             <h3>Mechanical Engineer &amp; Designer.</h3>
-            <p class="fst-italic">
+            <!-- <p class="fst-italic">
               Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
               eiusmod tempor incididunt ut labore et dolore magna aliqua.
-            </p>
+            </p> -->
             <div class="row">
               <div class="col-lg-6">
                 <ul>
@@ -122,11 +127,11 @@
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
-                    <strong>Website:</strong> <span><a href="https://urldefense.com/v3/__http://www.example.com__;!!CzAuKJ42GuquVTTmVmPViYEvSg!MNu_qV-v900w500G-GHg69GYygXbQCSn_bkWJ9m0ApWI9dlT7QSL8Bi-a6GFBuOYbJL5x0o2IrwT$">www.example.com</a></span>
+                    <strong>Email:</strong> <span>dahmc@uci.edu</span>
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
-                    <strong>Phone:</strong> <span>(650) 996 8617</span>
+                    <strong>Phone:</strong> <span>(650) 996-8617</span>
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
@@ -147,8 +152,8 @@
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
-                    <strong>Email:</strong>
-                    <span>dahmc@uci.edu</span>
+                    <strong>GPA:</strong>
+                    <span>3.4 </span>
                   </li>
                   <li>
                     <i class="bi bi-chevron-right"></i>
@@ -158,13 +163,7 @@
               </div>
             </div>
             <p>
-              Officiis eligendi itaque labore et dolorum mollitia officiis
-              optio vero. Quisquam sunt adipisci omnis et ut. Nulla
-              accusantium dolor incidunt officia tempore. Et eius omnis.
-              Cupiditate ut dicta maxime officiis quidem quia. Sed et
-              consectetur qui quia repellendus itaque neque. Aliquid amet
-              quidem ut quaerat cupiditate. Ab et eum qui repellendus omnis
-              culpa magni laudantium dolores.
+              Current coursework experience includes: Mechanical Systems, Mechanical Design Principals, Electric Circuits, Applied Engineering Thermodynamics, Mechanics of Structures, Fluid Mechanics, CAD Design, Heat and Mass Transfer, Mechanical Vibrations, and Fluid Thermal Sciences.
             </p>
           </div>
         </div>
@@ -176,45 +175,46 @@
     <section id="facts" class="facts">
       <div class="container">
         <div class="section-title">
-          <h2>Facts</h2>
+          <h2>Practical Experience</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-            ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-            quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-            Quia fugiat sit in iste officiis commodi quidem hic quas.
+            Number of hours of practical experience in different areas of engineering design.
           </p>
         </div>
 
         <div class="row no-gutters">
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up">
             <div class="count-box">
-              <i class="bi bi-emoji-smile"></i>
-              <span data-purecounter-start="0" data-purecounter-end="232" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Happy Clients</strong> consequuntur quae</p>
+              <i class="fas fa-palette"></i>
+              <span data-purecounter-start="0" data-purecounter-end="300" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Graphic Design</strong>
+                <!-- <br> Individual commisions</p> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="100">
             <div class="count-box">
-              <i class="bi bi-journal-richtext"></i>
-              <span data-purecounter-start="0" data-purecounter-end="521" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Projects</strong> adipisci atque cum quia aut</p>
+              <i class="fas fa-laptop"></i>
+              <span data-purecounter-start="0" data-purecounter-end="400" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Computer Aided Design</strong>
+                <!-- <br> Individual & Team</p> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="200">
             <div class="count-box">
-              <i class="bi bi-headset"></i>
-              <span data-purecounter-start="0" data-purecounter-end="1453" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hours Of Support</strong> aut commodi quaerat</p>
+              <i class="fas fa-robot"></i>
+              <span data-purecounter-start="0" data-purecounter-end="200" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Mechanical Design</strong>
+                <!-- <br> Collaboration & Communication</p> -->
             </div>
           </div>
 
           <div class="col-lg-3 col-md-6 d-md-flex align-items-md-stretch" data-aos="fade-up" data-aos-delay="300">
             <div class="count-box">
-              <i class="bi bi-people"></i>
-              <span data-purecounter-start="0" data-purecounter-end="32" data-purecounter-duration="1" class="purecounter"></span>
-              <p><strong>Hard Workers</strong> rerum asperiores dolor</p>
+              <i class="fas fa-industry"></i>
+              <span data-purecounter-start="0" data-purecounter-end="600" data-purecounter-duration="1" class="purecounter"></span>
+              <p><strong>Hardware manufacturing</strong>
+                <!-- <br> People & Teammates</p> -->
             </div>
           </div>
         </div>
@@ -226,58 +226,56 @@
     <section id="skills" class="skills section-bg">
       <div class="container">
         <div class="section-title">
-          <h2>Skills</h2>
+          <h2>Technical Skills</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-            ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-            quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-            Quia fugiat sit in iste officiis commodi quidem hic quas.
+            Below is a list of hardware and software skills relevant to engineering and design.
+            <br> The progress bar indicates level of competance (novice to expert) of each skill.
           </p>
         </div>
 
         <div class="row skills-content">
           <div class="col-lg-6" data-aos="fade-up">
             <div class="progress">
-              <span class="skill">HTML <i class="val">100%</i></span>
+              <span class="skill">SolidWorks <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="100" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">CSS <i class="val">90%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-
-            <div class="progress">
-              <span class="skill">JavaScript <i class="val">75%</i></span>
-              <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="75" aria-valuemin="0" aria-valuemax="100"></div>
-              </div>
-            </div>
-          </div>
-
-          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
-            <div class="progress">
-              <span class="skill">PHP <i class="val">80%</i></span>
+              <span class="skill">AutoCAD <i class="val">80%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="80" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">WordPress/CMS <i class="val">90%</i></span>
+              <span class="skill">Adobe Creative Cloud <i class="val">90%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+          </div>
+
+          <div class="col-lg-6" data-aos="fade-up" data-aos-delay="100">
+            <div class="progress">
+              <span class="skill">HTML &amp; PHP <i class="val">65%</i></span>
+              <div class="progress-bar-wrap">
+                <div class="progress-bar" role="progressbar" aria-valuenow="65" aria-valuemin="0" aria-valuemax="100"></div>
+              </div>
+            </div>
+
+            <div class="progress">
+              <span class="skill">Manufacture Tools (3D-Printing, Laser machienery, ect.) <i class="val">90%</i></span>
               <div class="progress-bar-wrap">
                 <div class="progress-bar" role="progressbar" aria-valuenow="90" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
 
             <div class="progress">
-              <span class="skill">Photoshop <i class="val">55%</i></span>
+              <span class="skill">Microsoft Office Products <i class="val">85%</i></span>
               <div class="progress-bar-wrap">
-                <div class="progress-bar" role="progressbar" aria-valuenow="55" aria-valuemin="0" aria-valuemax="100"></div>
+                <div class="progress-bar" role="progressbar" aria-valuenow="85" aria-valuemin="0" aria-valuemax="100"></div>
               </div>
             </div>
           </div>
@@ -292,13 +290,13 @@
         <div class="section-title">
           <h2>Resume</h2>
           <p>
-            Below you will find an executive summary of my official resume. <br> If you wish to view and download the full version please click here!
+            Below you will find an executive summary of my resume. <br> If you wish to view and download the full version please click below!
           <div id="main-footer" class="bg-white text-black">
             <!-- <div class="row d-flex flex-row-reverse row-h1">
               <div class="mb-5 col-md-4 item-h1"> -->
             <div class="row d-flex ">
               <div class="mt-2 mb-4 col-md-4">
-                <a href="CD_Resume.pdf" target="_blank" class="btn btn-white btn-outline-dark">
+                <a href="CD_TResume.pdf" target="_blank" class="btn btn-white btn-outline-dark">
                   <i class="fas fa-cloud-download-alt"></i> Download Resume
                 </a>
               </div>
@@ -386,21 +384,20 @@
               </ul>
             </div>
             <div class="resume-item">
-              <h4>Mechanical Design Engineer</h4>
-              <h5>2020 - 2022</h5>
+              <h4>Consultant Engineer LN4 Hand Project</h4>
+              <h5>2022 - Present</h5>
               <p><em>University of California Irvine, Irvine, CA</em></p>
               <ul>
                 <li>
-                  Created SolidWorks part files of all components for assembly of
-                  working electric guitar
+                  Assistant Engineer on the second generation of the LN4 prosthetic interface device
                 </li>
                 <li>
-                  Fabricated electric guitar employing additive and subtractive
+                  Fabricated prosthetic interface employing additive and subtractive
                   manufacturing techniques along with CAD software
                 </li>
                 <li>
-                  Applications: SolidWorks,AutoCAD, Adobe Illustrator,
-                  Adobe Photoshop, CorelDRAW, TinkerCAD
+                  Applications: SolidWorks, AutoCAD,
+                  CorelDRAW, MATLAB
                 </li>
               </ul>
             </div>
@@ -416,10 +413,10 @@
         <div class="section-title">
           <h2>Portfolio</h2>
           <p>
-            Magnam dolores commodi suscipit. Necessitatibus eius consequatur
-            ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
-            quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
-            Quia fugiat sit in iste officiis commodi quidem hic quas.
+            Below is a collage of projects, deliverables, and activities that
+            describe my experience and personality. <br> On each photo is a + or Link icon,
+            click "+" for an expanded view, or click "link" for more information
+            on the topic!
           </p>
         </div>
 
@@ -427,9 +424,9 @@
           <div class="col-lg-12 d-flex justify-content-center">
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
-              <li data-filter=".filter-app">App</li>
-              <li data-filter=".filter-card">Card</li>
-              <li data-filter=".filter-web">Web</li>
+              <li data-filter=".filter-app">Projects</li>
+              <li data-filter=".filter-card">Deliverables</li>
+              <li data-filter=".filter-web">Activities</li>
             </ul>
           </div>
         </div>
@@ -439,7 +436,7 @@
             <div class="portfolio-wrap">
               <img src="assets/img/portfolio/robot_image.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/robot_image.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/robot_image.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Control Systems Robot Project"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -447,9 +444,10 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-2.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/ski_flip.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-2.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/ski_flip.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Free-Skier Magazine~Conner Dahm Fliping through the 
+                Squaw Valley Pocket-park~"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -457,9 +455,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-3.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/PHand_Interface.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-3.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/PHand_Interface.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="LN4 Prosthetic Hand Interface"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -467,9 +465,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-4.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/bottles1.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-4.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/bottles1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Laser Engraved UCI Hydroflasks"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -477,9 +475,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-5.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/Cliff.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-5.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 2"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/Cliff.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Shipwreck Beach Honolulu Cliff Dive"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -487,9 +485,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-app">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-6.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/guitar.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-6.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="App 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/guitar.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="3D Modeling of Electric Guitar"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -497,9 +495,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-7.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/budda.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-7.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 1"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/budda.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Layered Laser Cut/Engraved Maple Buddah Hand"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -507,9 +505,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-8.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/board.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-8.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Card 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/board.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Designed + Manufactured Exile Skimboard"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -517,9 +515,9 @@
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-web">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/portfolio-9.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/Volley1.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/portfolio-9.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Web 3"><i class="bx bx-plus"></i></a>
+                <a href="assets/img/portfolio/Volley1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="UCI Men's Volleyball Pre-Game Warm-up"><i class="bx bx-plus"></i></a>
                 <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
               </div>
             </div>
@@ -720,19 +718,19 @@
               <div class="address">
                 <i class="bi bi-geo-alt"></i>
                 <h4>Location:</h4>
-                <p>A108 Adam Street, New York, NY 535022</p>
+                <p>Balboa Peninsula, Newport Beach, CA 92663</p>
               </div>
 
               <div class="email">
                 <i class="bi bi-envelope"></i>
                 <h4>Email:</h4>
-                <p>info@example.com</p>
+                <p>dahmc@uci.edu</p>
               </div>
 
               <div class="phone">
                 <i class="bi bi-phone"></i>
                 <h4>Call:</h4>
-                <p>+1 5589 55488 55s</p>
+                <p>+1 (650) 996-8617</p>
               </div>
 
               <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border: 0; width: 100%; height: 290px" allowfullscreen></iframe>
