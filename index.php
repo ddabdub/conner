@@ -177,7 +177,7 @@
         <div class="section-title">
           <h2>Practical Experience</h2>
           <p>
-            Number of hours of practical experience in different areas of engineering design.
+            Apoproximate number of hours of practical experience in different areas of engineering design.
           </p>
         </div>
 
@@ -414,9 +414,8 @@
           <h2>Portfolio</h2>
           <p>
             Below is a collage of projects, deliverables, and activities that
-            describe my experience and personality. <br> On each photo is a + or Link icon,
-            click "+" for an expanded view, or click "link" for more information
-            on the topic!
+            describe my experience and personality. <br> Click the "+" icon for an expanded view
+            of the image.
           </p>
         </div>
 
@@ -425,7 +424,7 @@
             <ul id="portfolio-flters">
               <li data-filter="*" class="filter-active">All</li>
               <li data-filter=".filter-app">Projects</li>
-              <li data-filter=".filter-card">Deliverables</li>
+              <li data-filter=".filter-card">Designs</li>
               <li data-filter=".filter-web">Activities</li>
             </ul>
           </div>
@@ -437,7 +436,7 @@
               <img src="assets/img/portfolio/robot_image.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/robot_image.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Control Systems Robot Project"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -448,7 +447,7 @@
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/ski_flip.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Free-Skier Magazine~Conner Dahm Fliping through the 
                 Squaw Valley Pocket-park~"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -458,17 +457,17 @@
               <img src="assets/img/portfolio/PHand_Interface.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/PHand_Interface.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="LN4 Prosthetic Hand Interface"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/bottles1.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/Bottles1.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/bottles1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Laser Engraved UCI Hydroflasks"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/Bottles1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Laser Engraved UCI Hydroflasks"><i class="bx bx-plus"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -478,7 +477,7 @@
               <img src="assets/img/portfolio/Cliff.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/Cliff.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Shipwreck Beach Honolulu Cliff Dive"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -488,17 +487,17 @@
               <img src="assets/img/portfolio/guitar.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/guitar.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="3D Modeling of Electric Guitar"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
 
           <div class="col-lg-4 col-md-6 portfolio-item filter-card">
             <div class="portfolio-wrap">
-              <img src="assets/img/portfolio/budda.jpg" class="img-fluid" alt="" />
+              <img src="assets/img/portfolio/Budda.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
-                <a href="assets/img/portfolio/budda.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Layered Laser Cut/Engraved Maple Buddah Hand"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <a href="assets/img/portfolio/Budda.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Layered Laser Cut/Engraved Maple Buddah Hand"><i class="bx bx-plus"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -508,7 +507,7 @@
               <img src="assets/img/portfolio/board.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/board.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="Designed + Manufactured Exile Skimboard"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -518,7 +517,7 @@
               <img src="assets/img/portfolio/Volley1.jpg" class="img-fluid" alt="" />
               <div class="portfolio-links">
                 <a href="assets/img/portfolio/Volley1.jpg" data-gallery="portfolioGallery" class="portfolio-lightbox" title="UCI Men's Volleyball Pre-Game Warm-up"><i class="bx bx-plus"></i></a>
-                <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a>
+                <!-- <a href="portfolio-details.html" title="More Details"><i class="bx bx-link"></i></a> -->
               </div>
             </div>
           </div>
@@ -704,12 +703,12 @@
       <div class="container">
         <div class="section-title">
           <h2>Contact</h2>
-          <p>
+          <!-- <p>
             Magnam dolores commodi suscipit. Necessitatibus eius consequatur
             ex aliquid fuga eum quidem. Sit sint consectetur velit. Quisquam
             quos quisquam cupiditate. Et nemo qui impedit suscipit alias ea.
             Quia fugiat sit in iste officiis commodi quidem hic quas.
-          </p>
+          </p> -->
         </div>
 
         <div class="row" data-aos="fade-in">
@@ -733,7 +732,10 @@
                 <p>+1 (650) 996-8617</p>
               </div>
 
-              <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border: 0; width: 100%; height: 290px" allowfullscreen></iframe>
+
+              <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d106333.26145067305!2d-117.99353021830902!3d33.60752488618245!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dd20102213c553%3A0x5f630562e830eb66!2sBalboa%20Peninsula%2C%20Newport%20Beach%2C%20CA!5e0!3m2!1sen!2sus!4v1682469685484!5m2!1sen!2sus" width="465px" height="290px" style="border:0;" allowfullscreen="" loading="lazy" referrerpolicy="no-referrer-when-downgrade"></iframe>
+
+              <!-- <iframe src="https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d12097.433213460943!2d-74.0062269!3d40.7101282!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0xb89d1fe6bc499443!2sDowntown+Conference+Center!5e0!3m2!1smk!2sbg!4v1539943755621" frameborder="0" style="border: 0; width: 100%; height: 290px" allowfullscreen></iframe> -->
             </div>
           </div>
 
