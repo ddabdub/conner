@@ -2,7 +2,7 @@
 require("../djd_functions.php");
 
 // Replace ddabdub@uci.edu with your real receiving email address
-$receiving_email_address = 'ddabdub@uci.edu';
+$receiving_email_address = 'dahmc@uci.edu';
 
 if ($_SERVER['REQUEST_METHOD'] == "POST") {
   if (isset($_POST['email']) && isset($_POST['subject']) && isset($_POST['message']) && isset($_POST['name'])) {

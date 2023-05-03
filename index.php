@@ -9,7 +9,7 @@
   <meta content="" name="description" />
   <meta content="" name="keywords" />
 
-  <!-- Favicons -->
+  <!-- Favicons --5
   <link href="assets/img/favicon.png" rel="icon" />
   <link href="assets/img/apple-touch-icon.png" rel="apple-touch-icon" />
 
@@ -30,13 +30,6 @@
   <!-- Template Main CSS File -->
   <link href="assets/css/style.css" rel="stylesheet" />
 
-  <!-- =======================================================
-  * Template Name: iPortfolio
-  * Updated: Mar 10 2023 with Bootstrap v5.2.3
-  * Template URL: https://bootstrapmade.com/iportfolio-bootstrap-portfolio-websites-template/
-  * Author: BootstrapMade.com
-  * License: https://bootstrapmade.com/license/
-  ======================================================== -->
 </head>
 
 <body>
@@ -52,6 +45,7 @@
         <div class="social-links mt-3 text-center">
           <!-- <a href="#" class="twitter"><i class="bx bxl-twitter"></i></a> -->
           <a href="https://urldefense.com/v3/__https://github.com/Conner-Dahm__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOsZdw-vu$" target="_blank" class="github"><i class="bx bxl-github"></i></a>
+          <!-- <a href="https://urldefense.com/v3/__https://github.com/Conner-Dahm__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOsZdw-vu$" target="_blank" class="github"><i class="fab fa-github"></i></a> -->
           <a href="https://urldefense.com/v3/__https://www.instagram.com/connerdahm/__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOmFH1AWs$" target="_blank" class="instagram"><i class="bx bxl-instagram"></i></a>
           <a href="#" class="google"><i class="bx bxl-gmail"></i></a>
           <a href="https://urldefense.com/v3/__https://www.linkedin.com/in/conner-dahm/__;!!CzAuKJ42GuquVTTmVmPViYEvSg!PTJwcG28riUQRgLzoCSBv_a_svnY-aCg9gSv9wXG22lE5IRlNScUOWZolm-S1X1a-aQpOjFkI_7m$" target="_blank" class="linkedin"><i class="bx bxl-linkedin"></i></a>
